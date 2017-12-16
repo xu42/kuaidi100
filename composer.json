@@ -1,0 +1,23 @@
+{
+    "name": "xu42/kuaidi100",
+    "description": "PHP Wrapper for KuaiDi100",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "快递100",
+        "快递追踪"
+    ],
+    "homepage": "https://github.com/xu42/kuaidi100",
+    "authors": [
+        {
+            "name": "xu42",
+            "email": "xu42.cn@gmail.com",
+            "homepage": "https://xu42.cn"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Xu42\\KuaiDi100\\": "src/"
+        }
+    }
+}
